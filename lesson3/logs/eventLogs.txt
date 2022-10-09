@@ -1,0 +1,2 @@
+09102022	14:29:01	575afdc9-40b1-470b-b0f0-d9aaae668b9b	Log event emitted
+09102022	14:30:25	6d8c6573-c63f-4ebd-a985-a5888f19842c	Log event emitted
