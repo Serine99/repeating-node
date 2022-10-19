@@ -8,3 +8,7 @@
 20221009	18:06:29	d3d2097f-568b-4458-a3f7-0e943c8d677d	/new-page.html	GET
 20221009	18:06:29	7a8e6904-c82d-4fd0-9d20-adc640806521	/css/style.css	GET
 20221009	18:06:29	85e12617-77a0-40ee-8c32-36ce02d502d1	/img/img1.jpg	GET
+20221016	12:23:54	41a56f01-a2e9-414e-a485-7ab083fbdd3c	GET	 undefined	 /
+20221016	12:23:54	7d9220b3-cb57-4caf-800e-f5a8f250cd6a	GET	 undefined	 /public/img/css/style.css
+20221016	12:30:35	fd7d0b6b-dda6-4b31-a326-42c02cdcc32d	GET	 undefined	 /
+20221016	12:30:35	0fdd4500-9cce-44cb-aaf4-b32c956332d7	GET	 undefined	 /css/style.css
